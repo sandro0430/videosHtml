@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+	<html>
+	<hear>
+		<title>alcantara 1</title>
+	</hear>
+	<body>
+
+		<section>
+
+			<h1> hola soy ana  </h1>
+			<h2> hola soy ana  </h2>
+			<h3> hola soy ana  </h3>
+			<h4> hola soy ana  </h4>
+			<h5> hola soy ana  </h5>
+			<h6> hola soy ana  </h6>
+		<p></p> 
+		<h></h>
+	</section>
+
+	<section>
+		<!-- listas ordnadas  -->
+		<h1>   listas ordnadas </h1>
+	<ol>
+		<li>cosa</li>
+		<li>cosa</li>
+		<li>cosa</li>
+		<li>cosa</li>
+		<li>cosa</li>
+	</section>
+
+	<section>
+
+	<!--imgen  -->
+		<h1>insertar imagen</h1 >
+		<img src="./uno.jpg" alt="lol">
+
+
+
+	</section>
+
+	<section>
+
+
+	<a href="https://www.netflix.com/do/"> Ntflix</a>
+	</section>
+
+
+
+	<section>
+
+	<audio  src =‟ ‟ controls >< />
+
+
+
+	</section>
+
+
+
+<section>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/hrwZA2f6nlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</section>
+
+	< h1 > tabla </h1>
+
+	< table >
+
+		<thead>
+	
+		<tr>
+			<th> Ana luisa </th>
+			<th> alcantara </th>
+			<th> 35 </th
+		</tr> 
+
+			</thead>
+			<tbody>
+
+		<tr>
+			 <td> yefri </th>
+			<td> rodrigrez </th>
+			<td> 18 </th>
+		</tr>
+		<tr>
+			 <td> lisandro </th>
+			<td> rodrigrez </th>
+			<td> 16 </th>
+		</tr>
+		<tr>
+			 <td> sandro </th>
+			<td> rodrigrez </th>
+			<td> 8 </th>
+		</tr>
+
+		<tbody>
+
+
+		< table >
+
+
+		<section>
+
+		</section>
+			<h1> formulario </h1 >
+
+		< form >      
+
+				< label    for =″nombre ‟ >  nombe   </label >
+		  		< input  type =" text " name = " nombre " id "  nombre" >
+				<label  for =″apellido‟  >  apellido  </label >
+				< input  type =" text " name = " apellido " id "  apellido" >
+
+				< input  type =" checkbox" name = "avanico " id " universal" >
+				< label    for =″universal ‟ >  universal  </label>
+
+				< input  type =" checkbox " name = " avanico " id " kdk" >
+				< label    for =″ kdk ‟ >  kdk  </label >
+				 
+				< input  type =" checkbox " name= "celular " id "  sannsug" >
+				< label    for =″sanssug‟ > sanssug</label >
+				< input  type ="checkbox  " name = " celular " id "  alcatel " >
+				< label    for =″alcatel‟ >  alcatel   </label >
+				< input  type =" text " name = " Radio " id "  sony" >
+				< label    for =″sony ‟ > sony </label >
+				< input  type =" text " name = "Radio " id "  Dawaa" >
+				< label    for =″ Dawaa‟ >  Dawaa  </label >
+				< input  type =" text " name = " telebisor " id "  sony" >
+				< label    for =″sony ‟ > sony </label >
+				< input  type =" text " name = "telebisor " id "  Dawaa" >
+				< label    for =″Dawaa‟ > Dawaa </label >
+
+				
+		<select  id=" sexo" >
+
+			<option value =" Hombre "> Hombre </option>
+			<option value =" mujer"> mujer </option>
+
+		</section>
+
+		<input type " subeit " value " Enviar ">
+
+		</form>
+
+	<section>
+
+	</section>
+
+ 
+		<h1> hola soy ana  </h1>
+		<h2> hola soy ana  </h2>
+		<h3> hola soy ana  </h3>
+		<h4> hola soy ana  </h4>
+		<h5> hola soy ana  </h5>
+		<h6> hola soy ana  </h6>
+	<p></p> 
+	
